@@ -112,6 +112,12 @@ Diferentes amostras podem ser retiradas de uma mesma população, e amostras dif
 
 # J
 
+## Jupyter Notebook 
+É um aplicativo web open-source muito importante para o desenvolvimento de projetos de ciência dos dados pois possibilita desenvolver iteratarivamente, facilitando a vizualiação dos dados e a adição de textos explicativos (marksdown), além de facilidar colaboração e publicação online. O Juyper Notebook possui suporte para algumas linguagens como Python(2 e 3), Julia, R, Scalla etc. O modelo funciona através de células, onde, uma vez rodado, é possível alterar as demais sem necessidade de atualizar as celulas já processadas ao menos que o conteúdo tenha sido alterado, esse modelo auxilia bastantes aos desenvoledores de aplicações voltadas a processamento de dados pois uma vez processados os dados, não é necessário ficar reprocessando a cada mudança no código. 
+Para isntalar a ferramenta, o modo mais simples é instalando o anaconda. 
+[1](https://www.anaconda.com/download/)
+[2](http://jupyter.org/)
+
 # K
 
 ## K-means clustering
